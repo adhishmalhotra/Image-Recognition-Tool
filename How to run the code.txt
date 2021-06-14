@@ -1,0 +1,17 @@
+The name of the main folder is FinalProjSOFE73375. 
+
+the python code is stored in directory named DataStructuresFinalProject
+
+the MNIST_DS directory contains all the images which have been renamed for the sake of simplicity
+
+how to run the code in Visual Studio Code? 
+
+1. open vscode
+2. open the folder FinalProjSOFE73375 with the help of OPEN FOLDER option. 
+3. Then access the code present in the directtory DataStructuresFinalProject 
+4. run and debug the python code 
+5. NOTE: make sure the whole folder FinalProjSOFE73375 is opened in VSCODE editor for the same results as the report
+
+The report for the final project of data structures is also present in the main folder. 
+
+Thank you! 
